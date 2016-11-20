@@ -1,0 +1,7 @@
+#Sun Nov 20 14:20:22 IST 2016
+base.0=E\:\\Shona\\University of Moratuwa\\4th Semester\\DBMS\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d1bb18d567cf523d18c1db63e57f2b31b7add8f5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Shona\\University of Moratuwa\\4th Semester\\DBMS\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f6a34e3ebd29d402b937c58bec9bee368486ca04\\classes.dex
+base.1=E\:\\Shona\\University of Moratuwa\\4th Semester\\DBMS\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f6a34e3ebd29d402b937c58bec9bee368486ca04
+file.0=E\:\\Shona\\University of Moratuwa\\4th Semester\\DBMS\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d1bb18d567cf523d18c1db63e57f2b31b7add8f5\\classes.dex

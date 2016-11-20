@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_e4d92948a5a776aabb2278337afe69d53be88bcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5066e2779bd08ef3ac3e97cb330b9bf5dba7c8d6">
+        <dex dex="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f6a34e3ebd29d402b937c58bec9bee368486ca04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_5feda567fc467aba2a3ba9cd8a6d81207d71582c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajeewa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_af506ed90e6aaa950bc5764e7ecbc0902440e88c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_192ce93bf09166e8df512a7d614abbf6eb06263a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_f0a2a43d8436d49a231bda483b81cf077df7f7cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b90f830394312784c1db712a6540228cd2614838">
+        <dex dex="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d1bb18d567cf523d18c1db63e57f2b31b7add8f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Shona\University of Moratuwa\4th Semester\DBMS\Mini Project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_7e124fd58ee3726ec33107076ea3bc1d44581b8e\classes.dex" />
+    </item>
+
+</items>
